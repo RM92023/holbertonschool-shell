@@ -1,2 +1,3 @@
 #!/bin/bash
 chown -hR vincent:staff .
+# también se puede poner chown -R vincent:staff .
