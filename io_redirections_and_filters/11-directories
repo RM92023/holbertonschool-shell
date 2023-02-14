@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth 2222222222222222222222
+find . -maxdepth 2 -type -d | wc -l
