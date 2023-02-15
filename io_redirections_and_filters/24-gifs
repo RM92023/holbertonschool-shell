@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name ".gif" | sort -k5 | cut -d "." -f2  #f es solo archivo y el . en el mismo directorio
+find . -type f -name ".gif" | sort -f | cut -d '.' -f2  #f es solo archivo y el . en el mismo directorio
